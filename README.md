@@ -17,3 +17,7 @@ Bootstrap 5.3 for responsive design and UI components
 Bootstrap Icons for iconography
 Simple JavaScript for form submission alert
 Google Fonts or system fonts for typography
+
+<img width="360" height="799" alt="image" src="https://github.com/user-attachments/assets/beb25602-95d7-4f48-81f3-be52a310ee70" />
+
+<img width="486" height="670" alt="image" src="https://github.com/user-attachments/assets/78a02b9c-5ef3-4945-bec1-3aa0c318b1f3" />
